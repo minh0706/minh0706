@@ -1,2 +1,3 @@
-![board](/board.png)
-![cost](/cost.png)
+EE 201
+![board](/Board.png)
+![cost](/Cost.png)
